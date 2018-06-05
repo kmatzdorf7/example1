@@ -37,7 +37,7 @@ public class Main extends Application {
     public void start(Stage primaryStage) {
         try {
             stage = primaryStage;
-            stage.setTitle("FXML Login Sample");
+            stage.setTitle("FXML Example");
             stage.setMinWidth(MINIMUM_WINDOW_WIDTH);
             stage.setMinHeight(MINIMUM_WINDOW_HEIGHT);
             gotoLogin();
